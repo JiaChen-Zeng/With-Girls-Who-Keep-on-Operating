@@ -23,7 +23,7 @@ System Core: Divine, supernatural, virtual, magical, inorganic
 Visual adventure with light puzzle elements
 
 1.	First, the player as a limited god AI goes through the scene via electronic devices limited in number freely and leave messages to Shinoka by using them. How the player can jump around devices and the usage of them depend on the device type.
-2.	Second, the player dives into Shinoka and experiences the environment and branching storylines in an uncontrollable abstract first-person view.
+2.	Second, the player dives into Shinoka and experiences the environment and branching storylines in an uncontrollable abstract third-person view.
 
 ### Setting
 A hyper-developed world where two types of mechanical life forms face off against each other and are connected to the old real world.
