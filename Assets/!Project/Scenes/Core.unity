@@ -23921,8 +23921,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1260963789}
-  m_LocalRotation: {x: 0.019950584, y: 0.97619814, z: -0.190677, w: 0.10139748}
-  m_LocalPosition: {x: 12.651482, y: -1.0660572, z: 0.79293156}
+  m_LocalRotation: {x: 0.01314311, y: 0.9841201, z: -0.1572022, w: 0.08137831}
+  m_LocalPosition: {x: 13.211805, y: -1.196552, z: 0.470335}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -42791,10 +42791,8 @@ MonoBehaviour:
   m_VersionIndex: 3175
   m_IsSelectable: 1
   m_SelectedFaces: 
-  m_SelectedEdges:
-  - a: 303
-    b: 302
-  m_SelectedVertices: 2f0100002e010000
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &1971318329
 Transform:
   m_ObjectHideFlags: 0
